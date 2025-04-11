@@ -1,3 +1,7 @@
 /build
 node_modules
+<<<<<<< HEAD
 .idea
+=======
+.idea
+>>>>>>> c51b3e9 (eslint and styleeslint)
